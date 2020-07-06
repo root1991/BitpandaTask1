@@ -29,10 +29,10 @@ https://play.google.com/store/apps/details?id=ua.gov.diia.app
 I like the design and stability of those apps
 
 2. As an agile person I would make the proper preparation and planning of the story. In case if there is no UI/UX designer in the team
-I would show different approaches to measure any kind of performance to the boss. My choice would base on my experience
+I would show different approaches to measure any kind of performance to the boss. My choice would base on my experience.
 Then together we can decide which approach looks better from his perspective. The fact that boss is iOS user could bring some discussion. 
-To explain Android approach I would use official links to Google Design guidelines, which should be followed by successful Android Application
-Also all requirements should clarified. After this I can start planning the feature. Only after planning the implementation could be started
+To explain Android approach I would use official links to Google Design guidelines, which should be followed by successful Android Application.
+Also all requirements should be clarified. After this I can start planning the feature. Only after planning the implementation could be started.
 
 3. In my spare time I like to try new things in Android Development by google and write tech articles. The recent technology I tried was `Jetpack Compose`. 
 Also I do some Flutter development
