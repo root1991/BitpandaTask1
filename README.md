@@ -18,7 +18,7 @@ easier to replace existing `DummyWebservice` to the real one
 
 Also here I wanted to add answers to your questions:
 1. For me as a developer code is the most important thing in the apps. As it's not really possible (legal) to get a source code of apps from google play 
-I can't really that they did a good job. From the user perspective I like these apps:
+I can't really say that they did a good job. From the user perspective I like these apps:
 
 https://play.google.com/store/apps/details?id=com.duolingo
 
